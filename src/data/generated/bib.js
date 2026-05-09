@@ -1,7 +1,7 @@
 const generatedBibEntries = {
 
 "jansen2025ecoaiware": {
-    "title": "ecoAIware: Exploring Public Awareness of Generative {AI}'s Environmental Footprint Through Participatory Data Physicalizations",
+    "title": "{{ecoAIware: Exploring Public Awareness of Generative AI's Environmental Footprint Through Participatory Data Physicalizations}}",
     "author": "Jansen, Anniek and Sankaran, Supraja",
     "booktitle": "Proceedings of the 28th International Academic Mindtrek Conference",
     "year": "2025",
@@ -14,7 +14,7 @@ const generatedBibEntries = {
 },
 
 "graves2025gptfootprint": {
-    "title": "{GPTFootprint}: Increasing Consumer Awareness of the Environmental Impacts of {LLMs}",
+    "title": "{{GPTFootprint: Increasing Consumer Awareness of the Environmental Impacts of LLMs}}",
     "author": "Graves, Nora and Larrieu, Vitus and Zhang, Yingyue Trace and Peng, Joanne and Rao, Varun Nagaraj and Liu, Yuhan and Monroy-Hernandez, Andres",
     "booktitle": "Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems",
     "year": "2025",
@@ -27,7 +27,7 @@ const generatedBibEntries = {
 },
 
 "klesel2026good": {
-    "title": "Good for the Planet, Bad for Me? Intended and Unintended Consequences of {AI} Energy Consumption Disclosure",
+    "title": "{{Good for the Planet, Bad for Me? Intended and Unintended Consequences of AI Energy Consumption Disclosure}}",
     "author": "Klesel, Michael and Messer, Uwe",
     "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
     "year": "2026",
@@ -40,7 +40,7 @@ const generatedBibEntries = {
 },
 
 "schwartz2020greenai": {
-    "title": "Green {AI}",
+    "title": "{{Green AI}}",
     "author": "Schwartz, Roy and Dodge, Jesse and Smith, Noah A. and Etzioni, Oren",
     "journal": "Communications of the ACM",
     "volume": "63",
@@ -55,7 +55,7 @@ const generatedBibEntries = {
 },
 
 "sharma2025sustainability": {
-    "title": "Sustainability, Development, and Human-Computer Interaction",
+    "title": "{{Sustainability, Development, and Human-Computer Interaction}}",
     "author": "Sharma, Vishal and Kumar, Neha",
     "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
     "year": "2025",
@@ -68,7 +68,7 @@ const generatedBibEntries = {
 },
 
 "berney2024carebased": {
-    "title": "Care-Based Eco-Feedback Augmented with Generative {AI}: Fostering Pro-Environmental Behavior Through Emotional Attachment",
+    "title": "{{Care-Based Eco-Feedback Augmented with Generative AI: Fostering Pro-Environmental Behavior Through Emotional Attachment}}",
     "author": "Berney, Manon and Ouaazki, Abdessalam and Macko, Vladimir and Kocher, Bruno and Holzer, Adrian",
     "booktitle": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
     "year": "2024",
@@ -81,7 +81,7 @@ const generatedBibEntries = {
 },
 
 "zeqiri2026ecofriendly": {
-    "title": "Investigating the Effects of Eco-Friendly Service Options on Rebound Behavior in Ride-Hailing",
+    "title": "{{Investigating the Effects of Eco-Friendly Service Options on Rebound Behavior in Ride-Hailing}}",
     "author": "Zeqiri, Albin and Rietzler, Michael and Rukzio, Enrico",
     "booktitle": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
     "year": "2026",
@@ -94,7 +94,7 @@ const generatedBibEntries = {
 },
 
 "gorucu2025critical": {
-    "title": "A Critical Analysis of Machine Learning Eco-Feedback Tools Through the Lens of Sustainable {HCI}",
+    "title": "{{A Critical Analysis of Machine Learning Eco-Feedback Tools Through the Lens of Sustainable HCI}}",
     "author": "Gorucu, Sinem and Morais, Luiz A. and Panagiotidou, Georgia",
     "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
     "year": "2025",
@@ -107,7 +107,7 @@ const generatedBibEntries = {
 },
 
 "laurell2025exploring": {
-    "title": "Exploring Assumptions about Sustainability: Towards a Constructive Framework for Action in Sustainable {HCI}",
+    "title": "{{Exploring Assumptions about Sustainability: Towards a Constructive Framework for Action in Sustainable HCI}}",
     "author": "Laurell Thorslund, Minna and Leifler, Ola",
     "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
     "year": "2025",
@@ -120,7 +120,7 @@ const generatedBibEntries = {
 },
 
 "chopra2022negotiating": {
-    "title": "Negotiating Sustainable Futures in Communities Through Participatory Speculative Design and Experiments in Living",
+    "title": "{{Negotiating Sustainable Futures in Communities Through Participatory Speculative Design and Experiments in Living}}",
     "author": "Chopra, Simran and Clarke, Rachel E. and Clear, Adrian K. and Heitlinger, Sara and Dilaver, Ozge and Vasiliou, Christina",
     "booktitle": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
     "year": "2022",
