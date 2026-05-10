@@ -77,7 +77,7 @@ const generatedBibEntries = {
     "doi": "10.1145/3613904.3642296",
     "series": "sustainable-design-practice",
     "keywords": "type:rct, eco-feedback, generative-ai, emotional-attachment, pro-environmental-behavior",
-    "abstract": "A randomised controlled trial showing that pairing eco-feedback with a generative-AI-rendered avatar amplifies emotional attachment and pro-environmental energy-saving behaviour."
+    "abstract": "A randomised controlled trial showing that pairing eco-feedback with a generative-AI-rendered avatar amplifies emotional attachment and pro-environmental energy-saving behaviour.",
     "img": "img/berney2024-interface.png"
 },
 
