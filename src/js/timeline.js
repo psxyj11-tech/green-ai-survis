@@ -393,8 +393,8 @@ const timeline = (function () {
             });
         chart.selectAll('svg').data(d3data).enter().append('rect')
             .attr('class', 'bar total tooltip')
-            .style('fill', '#7cc522')
-            .style('stroke', 'black')
+            .attr('fill', '#7cc522')
+            .attr('style', 'fill: #7cc522 !important; stroke: black;')
             .attr('shape-rendering', 'crispEdges')
             .attr('x', function (d) {
                 return (d.key - minYear) * barWidth;
