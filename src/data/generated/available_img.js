@@ -1,4 +1,3 @@
 const availableImg = [
-    "Beck2016Visual",
-    "berney2024carebased"
+    "Beck2016Visual"
 ];
