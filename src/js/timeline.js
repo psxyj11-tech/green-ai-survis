@@ -393,7 +393,7 @@ const timeline = (function () {
             });
         chart.selectAll('svg').data(d3data).enter().append('rect')
             .attr('class', 'bar total tooltip')
-            .style('fill', 'var(--bgColor3)')
+            .style('fill', '#7cc522')
             .style('stroke', 'black')
             .attr('shape-rendering', 'crispEdges')
             .attr('x', function (d) {
